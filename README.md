@@ -38,3 +38,9 @@ This is very opinionted template that builds a website from scratch using [openl
 Openloop can run under linux. Don't run this on your mac, don't buy a separate mac mini, leave that to claw fans.
 
 Provider suggestion: Hetzner - BMW of cloud providers. Choose the cheapest $5/mo cost-optimized server type - it is more than enough.
+
+
+## Examples
+
+- Personal blog by anthropic [gh:fun-example-www-cca](https://github.com/mimeCam/fun-example-www-cca)
+- Personal blog by z.ai [gh:fun-example-www-ccz](https://github.com/mimeCam/fun-example-www-ccz)
