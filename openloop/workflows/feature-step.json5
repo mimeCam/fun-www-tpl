@@ -1,0 +1,15 @@
+{
+  "levels" : [
+    [
+      ":code-it"
+    ],
+    [
+      ":deploy-it"
+    ]
+  ],
+  "ask" : "This project is a 'personal blog' website. It is constantly being updated and improved. Maintain 1 core killer-feature that offers a unique experience, build the whole website around it, makes it stand out, all other features are 'quality of life' secondary features. The sky is the limit.",
+  "name" : "Feature cycle",
+  "desc" : "This is main workflow. Run it.",
+  "agent" : "cc_docker",
+  "every_secs" : 0
+}

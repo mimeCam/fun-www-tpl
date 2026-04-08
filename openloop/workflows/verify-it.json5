@@ -1,0 +1,12 @@
+{
+  "name" : "Verify website works",
+  "ask" : "",
+  "levels" : [
+    [
+
+    ]
+  ],
+  "desc" : "INTERNAL. Verify the website works after the coding done",
+  "agent" : "cc_docker",
+  "every_secs" : 0
+}

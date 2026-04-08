@@ -1,0 +1,26 @@
+{
+  "name" : "Implement a cool feature",
+  "ask" : "Create a cool new feature that does not exist yet.",
+  "levels" : [
+    [
+      "fun_krystle_pm"
+    ],
+    [
+      "fun_jason_fried"
+    ],
+    [
+      "fun_paul_kim",
+      "fun_elon_critique"
+    ],
+    [
+      "fun_tanya_donska",
+      "fun_mike_architect"
+    ],
+    [
+      "fun_sid_coder"
+    ]
+  ],
+  "desc" : "INTERNAL. Codes a feature only. Does not commit.",
+  "agent" : "cc_docker",
+  "every_secs" : 0
+}

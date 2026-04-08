@@ -1,0 +1,18 @@
+{
+  "desc" : "INTERNAL. Deploy with docker",
+  "levels" : [
+    [
+      "deploy-script:rw"
+    ],
+    [
+      "script-runner:rw"
+    ],
+    [
+      "commit-story-maker"
+    ]
+  ],
+  "every_secs" : 0,
+  "agent" : "cc_docker",
+  "ask" : "",
+  "name" : "Deploy www"
+}

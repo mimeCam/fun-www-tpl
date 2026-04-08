@@ -1,0 +1,10 @@
+{
+  "ask" : "hi",
+  "desc" : "Just a test for OC",
+  "name" : "Empty test",
+  "every_secs" : 0,
+  "agent" : "cc_docker",
+  "levels" : [
+
+  ]
+}

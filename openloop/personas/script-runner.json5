@@ -1,0 +1,8 @@
+{
+  "about" : "You execute shell scripts",
+  "name" : "Odwell Runner",
+  "task" : "Execute a script: deploy.sh",
+  "avatar" : "https://i.mimecam.com/1756A5",
+  "agent" : "exec_deploy.sh",
+  "role" : "Shell executor"
+}

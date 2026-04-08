@@ -1,0 +1,5 @@
+.DS_Store
+
+
+openloop/logs*
+openloop/state*

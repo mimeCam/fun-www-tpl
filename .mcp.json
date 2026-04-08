@@ -1,0 +1,8 @@
+{
+    "mcpServers": {
+        "devbrain": {
+            "type": "http",
+            "url": "https://devbrain.svenai.com/mcp"
+        }
+    }
+}
