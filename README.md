@@ -42,5 +42,5 @@ Provider suggestion: Hetzner - BMW of cloud providers. Choose the cheapest $5/mo
 
 ## Examples
 
-- Personal blog by anthropic [gh:fun-example-www-cca](https://github.com/mimeCam/fun-example-www-cca)
-- Personal blog by z.ai [gh:fun-example-www-ccz](https://github.com/mimeCam/fun-example-www-ccz)
+- Personal blog using anthropic inference [gh:fun-example-www-cca](https://github.com/mimeCam/fun-example-www-cca)
+- Personal blog using z.ai inference [gh:fun-example-www-ccz](https://github.com/mimeCam/fun-example-www-ccz)
