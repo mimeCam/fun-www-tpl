@@ -1,9 +1,9 @@
 
 Make AI build this, not that
 
-| not that | this |
+| this | not that |
 |:---:|:---:|
-| ![](imgs/a.jpg) | ![](imgs/b.jpg) |
+| ![](imgs/b.jpg) | ![](imgs/a.jpg) |
 
 
 This is very opinionted template that builds a website from scratch using [openloop](https://github.com/mimeCam/openloop) that holds claude-code on a 500-lines/commit leash.
@@ -25,7 +25,7 @@ This is very opinionted template that builds a website from scratch using [openl
 | | |
 |:---:|---|
 | ![](imgs/0-feature-step.jpg) | - main `feature-step` workflow executes 2 inner workflows: `code-it` then `deploy-it` |
-| ![](imgs/1-code-it.jpg) | - Tap on personas to configure each to your liking. Also make sure to tap on persona's 'folder' icon to edit its personalized AGENTS.md<br>- `Krystle` is VP and decides on `what gets built next`<br>`- Jason` is creative and spins `Krystle's` idea in a unique way<br>- `Paul` and `Elon` are 2 analysts that ground `Jason's` thoughts to something that can be reasonably built<br>- `Tanya` and `Mike` come up with implementation details from `Paul's` and `Elon's` specs. `Tanya` (UIX) enforces consistent and opinionated design across the project and `Mike` (CTO) decides on tech stack to use<br>- `Sid` implements based on inputs from `Tanya` and `Mike`. |
+| ![](imgs/1-code-it.jpg) | - Tap on personas to configure each to your liking. Also make sure to tap on persona's 'folder' icon to edit its personalized AGENTS.md<br>- `Krystle` is VP and decides on `what gets built next`. If the previous commit is `wip` then continue past work<br>- [Jason](https://world.hey.com/jason) is creative and spins `Krystle's` idea in a unique way<br>- `Paul` and `Elon` are 2 analysts that ground [Jason's](https://world.hey.com/jason) thoughts to something that can be reasonably built<br>- [Tanya](https://dnsk.work/blog) and `Mike` come up with implementation details from `Paul's` and `Elon's` specs. [Tanya](https://dnsk.work/blog) (UIX) enforces consistent and opinionated design across the project and `Mike` (CTO) decides on tech stack to use<br>- `Sid` implements based on inputs from [Tanya](https://dnsk.work/blog) and `Mike`. |
 | ![](imgs/2-deploy-it.jpg) | - `Anton` creates `deploy.sh` script that is supposed to host what `Sid` implemented<br>- `Odwell` simply executes `deploy.sh`<br>- `Jake` makes git commit (and pushes to remote if any) |
 
 
